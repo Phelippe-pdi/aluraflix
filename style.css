@@ -9,6 +9,9 @@ header{
     border:insetolid 5px rgb(21, 255, 0);
 }
 section{
-background-color: rgb(231, 237, 231);
+
+.chamada-texto{
+   margin-right: 10%; 
+}
 
 }
